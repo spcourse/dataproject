@@ -42,7 +42,7 @@ Whatever project you're going to do. Bear in mind:
 
 #### Suggested projects
 
-* Make interactive plots to understand the development of life expectancy and fertility for different countries between 1964 and 2013. [more...](/project/development)
-* Topic analysis
-* Sentiment analysis
-* GoodReads keyword generator, tf-idf + spacy + scraping [more...](/project/goodreads)
+* Mine book descriptions from Goodreads to generate keywords. Learn to use the spaCy NLP-library and TF-IDF. [more...](/project/goodreads)
+* Make interactive plots to understand the development of life expectancy and fertility for different countries between 1964 and 2013. Learn to use the Bokeh visualization library [more...](/project/development)
+* Topic analysis?
+* Sentiment analysis?

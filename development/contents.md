@@ -6,11 +6,11 @@
 
 ## Data
 
-* You can download the data [here](https://github.com/spcourse/visualisation/raw/main/development/gapminder.csv). Source: [Gapminder.org](https://www.gapminder.org/)]
+You can download the data [here](https://github.com/spcourse/visualisation/raw/main/development/gapminder.csv). Source: [Gapminder.org](https://www.gapminder.org/)
 
 The data contains information about the average life expectancy and total fertility (number of children per woman) per capita of 244 countries from 1964 - 2013.
 
-## Specification
+## Description
 
 Many medical and social advances have been made since the 60s and the goal of your visualization will be to show the effect of this in an informative way. More specifically, you would like to answer the following question: "How did life expectancy and fertility change between 1964 - 2013 for different countries and continents?".
 
@@ -34,7 +34,7 @@ Take some time to think about how you would like to design your visualization. W
 * [Learning to see](https://ia.net/topics/learning-to-see),  Oliver Reichenstein
 * [Data visualization: Clarity of Aesthetics](https://dataremixed.com/2012/05/data-visualization-clarity-or-aesthetics/) (part 1, 2 and 3), Ben Jones
 
-## Outlint
+## Outline
 
 Create your own visualization in order to answer the research question. This can be done in many ways. The project should be complex enough to be interesting. Have a look at these guidelines:
 
