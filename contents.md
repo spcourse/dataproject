@@ -1,76 +1,48 @@
 # Project
 
-In this project, you'll create your own visualization with a data set and research question of your choice. The project is divided in four parts, shown below.
+Until now, we've shown you exactly what to learn and when. The goal of this project is to find your own subject. Something that you're interested about. In the end we want to see that you can learn a new subject by yourself.
 
-[Kickoff phase](/project/kickoff)
+We will suggest some possible subjects ([see below](#projects)), but they're only that: suggestions. You can propose your own subject. Are you already working on some data for you studies/work/research? You can use that for this project. Discuss your subject with one of the teachers before you start.
 
-* Part 1: Proposal - Proof of concept
+You have very little time for this project. It should not take up more than the equivalent of one full-time week (40 hours). So it is very important to limit the scope of your project.
 
-[Implementing your project](/project/implementation)
+The project is going to be evaluated based on the following:
 
-* Part 2: Design
-* Part 3: Minimum Viable Product
-* Part 4: Cleanup, Final Product
+* A process book. Here you document the *learning* process. This should be a day-to-day answering the questions: What have you learned? When? How?
+* A final product. The Jupyter Notebook final analysis or visualization.
+* Project description. A short document (max. 1000 words) of what the project is about. What is the research question? Which data did you use?
 
-## Schedule
+The main goal of the project is for you to learn a new technique. So it is important that your work shows clearly what you've learned.
 
-Underneath, the schedules for different starting periods are given. At the end of each part of the product, you'll discuss your progress with your TA via zoom. 
+Every project should start with some (research) question.
 
-After part 1, you have to email a text file which includes your proof of concept.
-After part 4, there will be a small presentation about your end product, and you have to hand in a zip file that includes all your code, data, a ReadMe and your decision journal.
+### Process book
 
-**Started Period 4, February 2021**
+At the start of the project, create a process book in which you keep track of your progress during the project. Note that it is not necessary to describe in detail what you have been working on every day. Just describe your most important findings and challenges during the project. And document the resources you've used (documentation, data resources, tutorials, video's etc.). Some things to keep in mind:
 
-| Finish course in: | 16 weeks |
-|---------|-----------------|
-| Acquisition | Fri 12 Feb 2021 |
-| Transformation | Fri 26 Feb 2021 |
-| Visualization | Fri 12 Mar 2021 |
-|_start project_|------------------|
-| Part 1, Proof of concept | Fri 26 March 2021 |
-| Part 2, Design | Thu 1 April 2021 |
-| Part 3, MVP | Fri 23 April 2021 |
-| Part 4, final product | Wed 19 May 2021 |
+1. **Don't forget the process book.** Maintain it every day you've worked on the project. This is the main way for us to see what you've learned and is an important part of the evaluation.
+2. **Don't use it for everything.** Don't spend too much time on your process book! Ten minutes every day you've worked on the project on this, should be more than enough.
+3. **Keep it simple and short.** Use simple language, short sentences, and be as straightforward as possible when documenting your learning process.
+4. **Create a simple template.** In order to organize your process book, it is nice to create and use a template:
 
-**Started Period 5, April (/end of March) 2021**
+    * Date of entry:
+    * What I've worked on:
+    * What problems I encountered:
+    * What I learned:
+    * Which resources did I use:
 
-| Finish course in: | 8 weeks |
-|---------|-----------------|
-| Acquisition | Tue 06 Apr 2021 |
-| Transformation | Fri 16 Apr 2021 |
-| Visualization | Fri 23 Apr 2021 |
-|_start project_|-----------------|
-| Part 1, Proof of concept | Thu 29 April 2021 |
-| Part 2, Design | Mon 10 May 2021 |
-| Part 3, MVP | Mon 17 May 2021 |
-| Part 4, Final product | Thu 20 May 2021 |
 
-## Process book
+### Projects
 
-At the start of the project, create a process book in which you keep track of your progress during the project. Note that it is not necessary to describe in detail what you have been working on every day. Just describe your most important findings and challenges during the project. At the end of the project this process book gives an insight in the progression of the project from beginning to end. On [this website](https://blog.trello.com/decision-journal) you can find a nice and detailed overview on how to journal your projects. Below we provide you a distilled version of this information.
+Whatever project you're going to do. Bear in mind:
 
-In your process book, you simply write down your decisions. When faced with a large decision, use your process book to document the following:
+1. **Tell us what you're going to do.** Plan a meeting (helpdesk) or come to the lab-session and tell us your plan. Whether you decide to take on one of our suggested projects or do your own. We want to know what you're going to work on before you start! We will help you keeping the project manageable.
+2. **Keep it simple.** Forty hours is not a lot of time. This is not a thesis. Learning a new technique already takes a lot of time, so keep the project itself simple.
+3. **Use GitHub for storing and sharing your code.** Make regular GitHub backups (don't forget to push to remote) to make sure you don't loose your code. And use the GitHub repository to share your code with us.
 
-* The choice you've made
-* What you expect to happen as a result of that choice
-* Why you expect things to pan out that way
+#### Suggested projects
 
-By doing so, you can use your process book for reflection. By documenting and reviewing your decisions frequently, you'll get a better grasp on the overall project.
-
-### Some tips for your process book
-
-Below you'll find some tips you’ll want to keep in mind.
-
-1. **Don't use it for everything** Don't spend too much time on your progress book! Reserve it exclusively for the larger decisions that have potentially major consequences and require some serious thought and deliberation. Do not write down every small decision in your progress book.
-2. **Keep it simple** Use simple language, short sentences, and be as straightforward as possible when documenting your decisions. That will allow you to look back and get the information you really need—without wading through paragraphs of flowery language and unnecessary details.  
-3. **Create a simple template** In order to organize your process book, it is nice to create and use a template to write down your decisions. This will save you time when you face a larger decision you would like to write down. Here’s what this could look like:
-
-    * Date I made this decision:
-    * The decision I made was:
-    * I believe this decision will lead to:
-    * Why I believe this decision will pan out this way:
-4. **Review your journal frequently** A process book isn’t about helping you make choices in the heat of the moment. It’s a record that you can refer back to in order to understand your blind spots and make better decisions moving forward. So, that means you need to actually look back at it—and you should plan to do so frequently.
-
-## Scheduling meetings
-
-If you would like to schedule a zoom meeting, send an email to your TA to make an appointment. Before every zoom meeting, email your process book to your TA (preferably some hours before the meeting).
+* Make interactive plots to understand the development of life expectancy and fertility for different countries between 1964 and 2013. [more...](/project/development)
+* Topic analysis
+* Sentiment analysis
+* GoodReads keyword generator, tf-idf + spacy + scraping [more...](/project/goodreads)
