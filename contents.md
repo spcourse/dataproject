@@ -38,11 +38,14 @@ Whatever project you're going to do. Bear in mind:
 
 1. **Tell us what you're going to do.** Plan a meeting (helpdesk) or come to the lab-session and tell us your plan. Whether you decide to take on one of our suggested projects or do your own. We want to know what you're going to work on before you start! We will help you keeping the project manageable.
 2. **Keep it simple.** Forty hours is not a lot of time. This is not a thesis. Learning a new technique already takes a lot of time, so keep the project itself simple.
+3. **Learn something new.** Make sure you use something (a library, algorithm, concept) that hasn't been discussed in the course already.
 3. **Use GitHub for storing and sharing your code.** Make regular GitHub backups (don't forget to push to remote) to make sure you don't loose your code. And use the GitHub repository to share your code with us.
 
 #### Suggested projects
 
-* Mine book descriptions from Goodreads to generate keywords. Learn to use the spaCy NLP-library and TF-IDF. [more...](/project/goodreads)
-* Make interactive plots to understand the development of life expectancy and fertility for different countries between 1964 and 2013. Learn to use the Bokeh visualization library [more...](/project/development)
-* Topic analysis?
-* Sentiment analysis?
+The list below is meant as an inspiration. You can do the project as described, you can make it your own, or you can even think of your own project.
+
+* Mine book descriptions from Goodreads to generate keywords. *Learn* to use the spaCy NLP-library and TF-IDF. [more...](/project/goodreads)
+* Make interactive plots to understand the development of life expectancy and fertility for different countries between 1964 and 2013. *Learn* to use the Bokeh visualization library [more...](/project/development)
+
+> This list is subject to change. We strife to update and add projects frequently.
