@@ -2,12 +2,12 @@
 
 Here you can submit your final version of the project. Take note:
 
-Hand in a zip file that includes 
+Hand in link to your GitHub repository. Make sure the repository contains at least the following elements:
 
-1. The final notebook 
-2. All python files 
-3. The raw data you started your project with and any intermediate processed versions, which should be clearly labeled. In case your data set is so large that handing it in becomes problematic, send an email to your TA to set up a different way to send the files.
-4. A readme file with all information needed to run your code (what every file does, in what order to execute your code etc.)
-5. Your process book
+* A process book.
+* A final product (all the python files, notebooks, plots, etc.).
+* Project description.
+
+**Make sure you've pushed your repository to remote before submitting.**
 
 In case of problems submitting, ask your teacher or send an e-mail to <scientific@mprog.nl>.
