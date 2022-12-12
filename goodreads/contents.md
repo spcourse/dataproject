@@ -1,4 +1,4 @@
-# Visualizing life expectancy and fertility
+# Characteristic words
 
 ## Research question
 
@@ -33,12 +33,12 @@ The research question stated above is quite simple, you might be able to think o
 
 ## Outline
 
-Create your own visualization in order to answer the research question. This can be done in many ways. The project should be complex enough to be interesting. Have a look at these guidelines:
+Create your own analysis in order to answer the research question. This can be done in many ways. The project should be complex enough to be interesting. Have a look at these guidelines:
 
 * Use spaCy to tokenize the text and remove stopwords.
 * Make sure to use only the [lemma](https://en-academic.com/dic.nsf/enwiki/1247338) of each word, not the word itself. (When you tokenize a text with spaCy you can easily get the lemma of each token.)
 * For computing a TF-IDF score, you need to know the frequency of each word in each text. Think well about which data structures can be convenient to use for that.
-* The output should be some sort of data file containing at least the 15 key words with the highest TF-IDF score for each book.
+* The output should be some sort of data file containing at least the 15 key words with the highest TF-IDF score for each book. Preferably it should also be visualized with a plot.
 * Think of at least another interesting research question you can answer with the data.
 * The code that is used to create the keywords should be well designed, clear, and neatly formatted. Use functions, choose useful names for your variables, prevent code repetition, place comments, etc.
 * (Bonus) Additionally you can have a look of how valid it is to use only summaries of books. For some books you can find the whole text online. You might be able to validate your algorithm by running it on the full text and the summary and compare the results. You'd need to think of a metric. Have a look here for full texts: [Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=1984&submit_search=Go%21)
