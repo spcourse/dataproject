@@ -48,4 +48,4 @@ The list below is meant as an inspiration. You can do the project as described, 
 * Mine book descriptions from Goodreads to generate keywords. *Learn* to use the spaCy NLP-library and TF-IDF. [more...](/project/goodreads)
 * Make interactive plots to understand the development of life expectancy and fertility for different countries between 1964 and 2013. *Learn* to use the Bokeh visualization library [more...](/project/development)
 
-> This list is subject to change. We strife to update and add projects frequently.
+> This list is subject to change. We strive to update and add projects frequently.
