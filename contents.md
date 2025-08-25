@@ -4,17 +4,29 @@ Until now, we've shown you exactly what to learn and when. The goal of this proj
 
 We will suggest some possible subjects ([see below](#projects)), but they're only that: suggestions. You can propose your own subject. Are you already working on some data for you studies/work/research? You can use that for this project. Discuss your subject with one of the teachers before you start.
 
-You have very little time for this project. It should not take up more than the equivalent of one full-time week (40 hours). So it is very important to limit the scope of your project.
+You have very little time for this project. It should not take up more than the equivalent of 1.5 full-time weeks (60 hours). So it is very important to limit the scope of your project.
 
 The project is going to be evaluated based on the following:
 
 * A process book. Here you document the *learning* process. This should be a day-to-day answering the questions: What have you learned? When? How?
 * A final product. The Jupyter Notebook final analysis or visualization.
-* Project description. A short document (max. 1000 words) of what the project is about. What is the research question? Which data did you use?
+* Project description. A short document (max. 1000 words) of what the project is about. What is the research question? Which data did you use? 
+* Final presentation. You do not get a grade for your presentation itself, but you do have to do it, and it gives you a change to demonstrate your final result in person.
 
 The main goal of the project is for you to learn a new technique. So it is important that your work shows clearly what you've learned.
 
-Every project should start with some (research) question.
+**Every project should start with some (research) question.**
+
+### Timeline
+
+There are four important deadlines to keep in mind:
+
+* First proposal: At the very start you need to submit your first project proposal. I.e., a short document (max: 200 words), describing the idea of your project (this includes the ersearch question). After submitting it, you need to come in to class it in person. We will evaluate how realistic/challenging the idea is. In case it becomes clear during the discussion that the porposal is not suitable, we ask you to submit a new proposal.
+* Second proposal \[optional\]: A new proposal if the first one was not approved.
+* Proof of concept: Halfway the project we ask you to sumit a proof of concept. After submitting you will have to come to class again to discuss your progress. You don't have to have all the work fnished, but you should have made substantial progress at this point.
+* Final result: After submitting the final version you will present your results during the final presentations.
+
+**It is improtant to meet the deadlines and come in for disucssion**, otherwise you will not be able to finish the course. If you run into issues with these deadlines, contact us as soon as possible! 
 
 ### Process book
 
@@ -31,21 +43,17 @@ At the start of the project, create a process book in which you keep track of yo
     * What I learned:
     * Which resources did I use:
 
-
 ### Projects
 
 Whatever project you're going to do. Bear in mind:
 
-1. **Tell us what you're going to do.** Plan a meeting (helpdesk) or come to the lab-session and tell us your plan. Whether you decide to take on one of our suggested projects or do your own. We want to know what you're going to work on before you start! We will help you keeping the project manageable.
-2. **Keep it simple.** Forty hours is not a lot of time. This is not a thesis. Learning a new technique already takes a lot of time, so keep the project itself simple.
-3. **Learn something new.** Make sure you use something (a library, algorithm, concept) that hasn't been discussed in the course already.
+1. **Keep it simple.** Sixty hours is not a lot of time. This is not a thesis. Learning a new technique already takes a lot of time, so keep the project itself simple.
+2. **Learn something new.** Make sure you use something (a library, algorithm, concept) that hasn't been discussed in the course already.
 3. **Use GitHub for storing and sharing your code.** Make regular GitHub backups (don't forget to push to remote) to make sure you don't loose your code. And use the GitHub repository to share your code with us.
 
-#### Suggested projects
+### Suggested projects
 
-The list below is meant as an inspiration. You can do the project as described, you can make it your own, or you can even think of your own project.
+The suggestions below are meant as an inspiration. You can do the project as described, you can make it your own, or you can even think of your own project.
 
 * Mine book descriptions from Goodreads to generate keywords. *Learn* to use the spaCy NLP-library and TF-IDF. [more...](/project/goodreads)
 * Make interactive plots to understand the development of life expectancy and fertility for different countries between 1964 and 2013. *Learn* to use the Bokeh visualization library [more...](/project/development)
-
-> This list is subject to change. We strive to update and add projects frequently.
