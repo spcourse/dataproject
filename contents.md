@@ -66,7 +66,7 @@ Your project will be evaluated on 4 criteria: Research Question/Project Goal, Co
 * **Research Question / Project Goal**: Is the goal of your project clear? Does it answer a clear question? Points:
     * **3 pt. Clear purpose of project**
         * The project states a **clear, focused goal *or* research question** (so it doesn't have to be formulated as a question, as long as it has a clear objective).
-        * The question can be answered (or goal can be acheived) with available data and methods.
+        * The question can be answered (or goal can be achieved) with available data and methods.
         * The goal logically guides the data processing, analysis, and final outputs.
     * **2 pt.Mostly clear**
         * A goal or question is present but somewhat **broad or loosely framed**.
@@ -128,8 +128,6 @@ Your project will be evaluated on 4 criteria: Research Question/Project Goal, Co
         * Code does not run at all or parts are missing.
         * Reporting is missing or extremely minimal.
 
-
-</details>
 
 ### Final project presentation
 
