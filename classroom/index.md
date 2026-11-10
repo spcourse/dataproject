@@ -9,8 +9,10 @@ In the previous section, you learned the basics of `git`. Now we’ll take the n
 3. Clone the repository to your computer (see below).
 
 4. Share your repository with the course instructors via one of two ways: 
-  * Make your repository public - on [github.com](https://github.com/), go to your repository -> Settings -> Collaborators -> Manage visibility -> Danger Zone, Change visibility to public
-  * Keep your repository private and add the course instructors as collaborators - on [github.com](https://github.com/), go to your repository -> Settings -> Collaborators -> Manage access to Add people. In this case, email us to get our Github handles.
+
+  * Make your repository public - on [github.com](https://github.com/), go to your repository → Settings → Collaborators → Manage visibility → Danger Zone, Change visibility to public
+
+  * Keep your repository private and add the course instructors as collaborators - on [github.com](https://github.com/), go to your repository → Settings → Collaborators → Manage access to Add people. In this case, email us to get our Github handles.
 
 ## Tips
 
