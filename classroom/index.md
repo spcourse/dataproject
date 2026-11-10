@@ -1,12 +1,16 @@
 # Git
 
-In the previous section, you learned the basics of `git`. Now we’ll take the next step by using **Github Classroom**. Github Classroom is a platform that makes it easy for teachers and students to work with GitHub repositories in a course setting. It automatically sets up a personal repository for each student, so you can manage your project in a structured way while your teacher can keep track of your progress.
+In the previous section, you learned the basics of `git`. Now we’ll take the next step by using your repository for your final project. To ensure we can keep track of your project and see your submissions, we will need access to your repository. You can do this via one of two options: either you set your final project repository to 'Public', or you keep it on the 'Private' setting and add us (the course instructors) as collaborators.
 
 1. Create an account on [github.com](https://github.com/) if you haven’t already.
 
-2. Go to [Github Classroom to create a new repository for your project](https://classroom.github.com/a/wI9VhW9_).
+2. Create your project repository on Github.
 
 3. Clone the repository to your computer (see below).
+
+4. Share your repository with the course instructors via one of two ways: 
+  * Make your repository public - on [github.com](https://github.com/), go to your repository -> Settings -> Collaborators -> Manage visibility -> Danger Zone, Change visibility to public
+  * Keep your repository private and add the course instructors as collaborators - on [github.com](https://github.com/), go to your repository -> Settings -> Collaborators -> Manage access to Add people
 
 ## Tips
 
@@ -36,10 +40,9 @@ The terminal commands you need for using git:
 
 * `git push` to sync your work with Github.com
 
-To revert a file back to the version from the previous commit (discarding all of the day’s changes), you can use:
+To revert a file back to the version from the previous commit (discarding all of the day’s changes), you can use the command below.
 Do this very carefully, because once it’s gone, it’s really gone!
 
 * `git checkout -- filename.py`
 
 It’s also possible to undo things you’ve already committed and pushed. However, this is not as straightforward as using the basic commands. Ask for help with this.
-
